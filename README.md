@@ -15,6 +15,7 @@ Sketches you need shown in the tree view:
 
 ![Tree view](Images/sketches_in_tree.PNG)
 
+To export, switch to the Mesh Workbench from the FreeCAD workbench menu, select the body to export ("Regular piece with handle" or "Flat piece with handle"), then go to Meshes > Create mesh from shape
 
 Regular piece (original puzzle has six)
 
